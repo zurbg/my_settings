@@ -1,0 +1,18 @@
+{
+    "workbench.startupEditor": "none",
+    
+    "extensions.autoCheckUpdates": false,
+    "extensions.autoUpdate": false,
+    "update.showReleaseNotes": false,
+    "update.mode": "none",
+
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Default Dark Modern",
+    "files.autoSave": "afterDelay",
+    "explorer.autoReveal": false,
+    "window.commandCenter": false,
+    "explorer.compactFolders": false,
+    "breadcrumbs.enabled": false,
+    "terminal.integrated.cursorStyle": "block",
+    "terminal.integrated.cursorBlinking": true
+}
